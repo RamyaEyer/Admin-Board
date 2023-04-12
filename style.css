@@ -1,0 +1,45 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.grid-container{
+
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-template-rows: auto;
+    
+}
+
+.sidebar{
+
+    background-color: #7c3aed;
+    height: 100vh;
+    grid-row: 1/10;
+    display: flex;
+    color: whitesmoke;
+    
+
+}
+
+.header{
+
+    background-color: whitesmoke;
+    height: 20vh;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    grid-template-rows: auto;
+
+
+}
+
+.main-content{
+
+    background-color: #E5E7EB;
+    height: 80vh;
+    display: grid;
+
+}
+
