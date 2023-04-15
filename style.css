@@ -32,6 +32,45 @@
     grid-template-columns: 3fr 2fr;
     grid-template-rows: auto;
 
+}
+
+.search-bar{
+
+    height: 10vh;
+    text-align: center;
+    padding-top: 1vh;
+    
+
+}
+
+.profile-preview{
+
+    height: 10vh;
+    
+
+}
+
+.greeting{
+
+
+}
+
+.new-upload-share{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#button{
+
+    background-color:#3882f6 ;
+    border: 0cm;
+    color: #E5E7EB;
+    border-radius: 45%;
+    padding: 10px;
+    text-align: center;
 
 }
 
