@@ -4,6 +4,8 @@
 
 The purpose of this project is to recreate the Project Design File (dashboard - project.png) using HTML/CSS. 
 
+Live: https://ramyaeyer.github.io/Admin-Board/
+
 This is an assignment from the Odin Project (Linked Below): 
 https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
 
